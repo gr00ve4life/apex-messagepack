@@ -1,2 +1,2 @@
 # apex-messagepack
-MessaagePack support for Apex
+MessagePack support for Apex
